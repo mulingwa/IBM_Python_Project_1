@@ -1,1 +1,1 @@
-# IBM_Python_Project_1
+This folder contains the IBM Python for Data Science project code
